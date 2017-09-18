@@ -1,1 +1,2 @@
 ﻿cách sử dụng github
+ revert file github
